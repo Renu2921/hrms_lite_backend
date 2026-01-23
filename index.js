@@ -9,7 +9,7 @@ const app=express();
 app.use(
   cors({
     origin: ["http://localhost:5174",
-        "https://hrms-lite09.netlify.app"],
+        "https://hrms-lite-29.netlify.app"],
     methods: ["GET", "POST", "PUT", "DELETE"],
     allowedHeaders: ["Content-Type", "Authorization"],
   })
