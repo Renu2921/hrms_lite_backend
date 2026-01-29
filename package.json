@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "It is an coding Assesement round",
   "license": "ISC",
-  "author": "Renu Swami",
+  "author": "RenuSwami",
   "type": "module",
   "main": "index.js",
   "scripts": {

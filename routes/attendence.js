@@ -6,4 +6,4 @@ const attendenceRouter=express.Router();
 attendenceRouter.post("/markAttendence",markAttendance);
 attendenceRouter.get("/attendance/:employeeId",getAttendanceByEmployee);
 
-export default attendenceRouter;
+export default attendenceRouter
