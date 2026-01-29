@@ -24,7 +24,7 @@ export const allEmployee=async(req,res)=>{
    }catch(error){
     res.status(401).json({message:error.message,success:false});
    }
-};
+}
 
 export const deleteEmployee=async(req,res)=>{
     try{
